@@ -5,6 +5,32 @@ import Icon from "@/components/ui/Icon";
 export const metadata: Metadata = {
   title: "تماس با ما",
   description: "برای مشاوره فنی، تأمین تجهیزات یا بررسی پروژه صنعتی خود با کارشناسان فراز صنعت در ارتباط باشید.",
+  openGraph: {
+    type: "website",
+    locale: "fa_IR",
+    siteName: "فراز صنعت",
+    title: "تماس با ما | فراز صنعت",
+    description: "برای مشاوره فنی، تأمین تجهیزات یا بررسی پروژه صنعتی خود با کارشناسان فراز صنعت در ارتباط باشید.",
+    images: [
+      {
+        url: "/contact/opengraph-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "فراز صنعت؛ برای همکاری تماس بگیرید",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "تماس با ما | فراز صنعت",
+    description: "برای مشاوره فنی، تأمین تجهیزات یا بررسی پروژه صنعتی خود با کارشناسان فراز صنعت در ارتباط باشید.",
+    images: [
+      {
+        url: "/contact/opengraph-image.jpg",
+        alt: "فراز صنعت؛ برای همکاری تماس بگیرید",
+      },
+    ],
+  },
 };
 
 export default function ContactPage() {

@@ -8,6 +8,32 @@ import CTASection from "@/components/sections/CTASection";
 export const metadata: Metadata = {
   title: "درباره‌ی ما",
   description: "با فراز صنعت و تخصص ما در ساخت، تأمین و پشتیبانی تجهیزات واحدهای صنعتی آشنا شوید.",
+  openGraph: {
+    type: "website",
+    locale: "fa_IR",
+    siteName: "فراز صنعت",
+    title: "درباره‌ی ما | فراز صنعت",
+    description: "با فراز صنعت و تخصص ما در ساخت، تأمین و پشتیبانی تجهیزات واحدهای صنعتی آشنا شوید.",
+    images: [
+      {
+        url: "/about/opengraph-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "فراز صنعت؛ همراه صنایع کشور",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "درباره‌ی ما | فراز صنعت",
+    description: "با فراز صنعت و تخصص ما در ساخت، تأمین و پشتیبانی تجهیزات واحدهای صنعتی آشنا شوید.",
+    images: [
+      {
+        url: "/about/opengraph-image.jpg",
+        alt: "فراز صنعت؛ همراه صنایع کشور",
+      },
+    ],
+  },
 };
 
 const values = [

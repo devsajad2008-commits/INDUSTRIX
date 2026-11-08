@@ -8,6 +8,32 @@ import CTASection from "@/components/sections/CTASection";
 export const metadata: Metadata = {
   title: "حوزه‌های فعالیت",
   description: "خدمات فراز صنعت در زمینه ساخت تجهیزات، اتوماسیون، تأمین قطعات و نگهداری صنعتی.",
+  openGraph: {
+    type: "website",
+    locale: "fa_IR",
+    siteName: "فراز صنعت",
+    title: "حوزه‌های فعالیت | فراز صنعت",
+    description: "خدمات فراز صنعت در زمینه ساخت تجهیزات، اتوماسیون، تأمین قطعات و نگهداری صنعتی.",
+    images: [
+      {
+        url: "/services/opengraph-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "فراز صنعت؛ راهکار فنی برای خطوط تولید",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "حوزه‌های فعالیت | فراز صنعت",
+    description: "خدمات فراز صنعت در زمینه ساخت تجهیزات، اتوماسیون، تأمین قطعات و نگهداری صنعتی.",
+    images: [
+      {
+        url: "/services/opengraph-image.jpg",
+        alt: "فراز صنعت؛ راهکار فنی برای خطوط تولید",
+      },
+    ],
+  },
 };
 
 const services: {
