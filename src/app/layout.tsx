@@ -12,10 +12,7 @@ const vazirmatn = localFont({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(
-    process.env.SITE_URL ??
-      (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : "http://localhost:3000"),
-  ),
+  metadataBase: new URL(process.env.SITE_URL ?? "https://industrix-sigma.vercel.app"),
   title: {
     default: "فراز صنعت | راهکارهای مهندسی و تولید",
     template: "%s | فراز صنعت",
