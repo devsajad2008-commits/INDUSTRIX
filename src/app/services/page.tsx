@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     description: "خدمات فراز صنعت در زمینه ساخت تجهیزات، اتوماسیون، تأمین قطعات و نگهداری صنعتی.",
     images: [
       {
-        url: "/services/opengraph-image.jpg",
+        url: "/images/social/services.jpg",
         width: 1200,
         height: 630,
         alt: "فراز صنعت؛ راهکار فنی برای خطوط تولید",
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     description: "خدمات فراز صنعت در زمینه ساخت تجهیزات، اتوماسیون، تأمین قطعات و نگهداری صنعتی.",
     images: [
       {
-        url: "/services/opengraph-image.jpg",
+        url: "/images/social/services.jpg",
         alt: "فراز صنعت؛ راهکار فنی برای خطوط تولید",
       },
     ],

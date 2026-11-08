@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     description: "از ساخت تجهیزات و اتوماسیون خطوط تولید تا نگهداری و تأمین قطعات، فراز صنعت برای افزایش بهره‌وری کنار شماست.",
     images: [
       {
-        url: "/opengraph-image.jpg",
+        url: "/images/social/home.jpg",
         width: 1200,
         height: 630,
         alt: "فراز صنعت؛ مهندسی دقیق برای صنعتی پایدار",
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     description: "از ساخت تجهیزات و اتوماسیون خطوط تولید تا نگهداری و تأمین قطعات، فراز صنعت برای افزایش بهره‌وری کنار شماست.",
     images: [
       {
-        url: "/opengraph-image.jpg",
+        url: "/images/social/home.jpg",
         alt: "فراز صنعت؛ مهندسی دقیق برای صنعتی پایدار",
       },
     ],

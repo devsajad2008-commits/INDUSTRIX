@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     description: "برای مشاوره فنی، تأمین تجهیزات یا بررسی پروژه صنعتی خود با کارشناسان فراز صنعت در ارتباط باشید.",
     images: [
       {
-        url: "/contact/opengraph-image.jpg",
+        url: "/images/social/contact.jpg",
         width: 1200,
         height: 630,
         alt: "فراز صنعت؛ برای همکاری تماس بگیرید",
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     description: "برای مشاوره فنی، تأمین تجهیزات یا بررسی پروژه صنعتی خود با کارشناسان فراز صنعت در ارتباط باشید.",
     images: [
       {
-        url: "/contact/opengraph-image.jpg",
+        url: "/images/social/contact.jpg",
         alt: "فراز صنعت؛ برای همکاری تماس بگیرید",
       },
     ],

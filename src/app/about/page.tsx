@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     description: "با فراز صنعت و تخصص ما در ساخت، تأمین و پشتیبانی تجهیزات واحدهای صنعتی آشنا شوید.",
     images: [
       {
-        url: "/about/opengraph-image.jpg",
+        url: "/images/social/about.jpg",
         width: 1200,
         height: 630,
         alt: "فراز صنعت؛ همراه صنایع کشور",
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     description: "با فراز صنعت و تخصص ما در ساخت، تأمین و پشتیبانی تجهیزات واحدهای صنعتی آشنا شوید.",
     images: [
       {
-        url: "/about/opengraph-image.jpg",
+        url: "/images/social/about.jpg",
         alt: "فراز صنعت؛ همراه صنایع کشور",
       },
     ],
